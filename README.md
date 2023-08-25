@@ -1,24 +1,25 @@
 # LSSDS2023
  Docker Workshop for La Serena School of Data Science - AURA Astronomy
 
-This repository serves as your go-to resource for mastering Docker, the powerful containerization technology that revolutionizes the way applications are developed, deployed, and scaled. Whether you're just getting started with Docker or looking to take your containerization skills to the next level with orchestration, this workshop has you covered.
+Este repositorio sirve como tu recurso principal para dominar Docker, la potente tecnología de contenerización que revoluciona la forma en que se desarrollan, implementan y escalan aplicaciones. Ya sea que estés comenzando con Docker o buscando llevar tus habilidades de contenerización al siguiente nivel con orquestación, este taller tiene todo lo que necesitas.
 
-What's Included:
+Que incluye:
 
-Basics of Docker:
+Conceptos básicos de Docker:
 
-- Learn the fundamentals of Docker containers, images, and Dockerfile creation.
-- Understand how to build, run, and manage containers for various applications.
-- Explore container networking and storage concepts.
+- Aprende los fundamentos de los contenedores Docker, las imágenes y la creación de archivos Dockerfile.
+- Comprende cómo construir, ejecutar y gestionar contenedores para diversas aplicaciones.
+- Explora los conceptos de la red y el almacenamiento de contenedores.
 
-Intermediate Docker Techniques:
+Técnicas Docker intermedia:
 
-- Dive deeper into Docker Compose for managing multi-container applications.
-- Explore advanced image creation and management techniques.
-- Learn about Docker volumes, bind mounts, and Docker Hub integration.
 
-Introduction to Orchestration:
+- Adéntrate más en Docker Compose para gestionar aplicaciones de múltiples contenedores.
+- Explora técnicas avanzadas de creación y gestión de imágenes.
+- Aprende sobre los volúmenes de Docker, los montajes de enlace y la integración con Docker Hub.
 
-- Discover the need for orchestration and how it solves challenges in deploying and managing containerized applications.
-- Get hands-on experience with Docker Swarm as a built-in orchestration solution.
+Introduccióin a la Orquestación:
+
+- Descubre la necesidad de la orquestación y cómo resuelve los desafíos en la implementación y gestión de aplicaciones en contenedores.
+- Obtén experiencia práctica con Docker Swarm como solución de orquestación integrada.
 
