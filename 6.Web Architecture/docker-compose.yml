@@ -1,10 +1,6 @@
 version: '3'
 
 services:
-  php:
-    image: 'bitnami/php-fpm:latest'
-    volumes:
-      - './app:/app'
       
   apache:
     image: httpd
